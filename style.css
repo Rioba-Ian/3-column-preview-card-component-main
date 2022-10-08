@@ -43,6 +43,17 @@ button {
     border-radius: 2rem;
     margin: 4rem 0 0.5rem 0;
     border: 0;
+    cursor: pointer;
+}
+
+
+.btn-raise:hover,
+.btn-raise:focus {
+    background-color: transparent;
+    color: white;
+    border: 0.1rem solid;
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.15em);
 }
 
 .container {
