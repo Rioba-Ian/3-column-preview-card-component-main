@@ -33,6 +33,7 @@ body {
 main {
     max-width: 80vw;
     min-width: 900px;
+    /* overflow: hidden; */
 }
 
 button {
@@ -110,4 +111,30 @@ button {
 .container-luxury>button {
     color: var(--very-dark-cyan);
     line-height: 1.4;
+}
+
+@media (max-width:900px) {
+
+    .container {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(3, 1fr);
+
+
+    }
+
+    footer {
+        display: none;
+    }
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
