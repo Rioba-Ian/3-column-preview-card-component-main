@@ -56,6 +56,5 @@ I am quite confident with CSS thanks to frontend Mentor challenges 🙏.
 I want to advance my JS, Sass and Typescript. 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Rioba-ian](https://www.frontendmentor.io/profile/Rioba-Ian)
+- Twitter - [@rioba_riri](https://www.twitter.com/riri)
