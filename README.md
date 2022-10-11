@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution](https://your-solution-url.com)
+- Solution URL: [Frontend mentor solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/3-column-preview-card-component-using-grid-BZDQ4u6d0I))
 - Live Site URL: [Live ](https://rioba-ian.github.io/3-column-preview-card-component-main/)
 
 ## My process
